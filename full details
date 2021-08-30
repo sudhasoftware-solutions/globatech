@@ -1,0 +1,1 @@
+List Local Git Tags. In order to list Git tags, you have to use the “git tag” command with no arguments. You can also execute “git tag” with the “-n” option in order to have an extensive description of your tag list. Optionally, you can choose to specify a tag pattern with the “-l” option followed by the tag patter
