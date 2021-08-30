@@ -1,0 +1,1 @@
+Technical translations with product specific terminology can be complicated and often need to be provided in several languages. It may involve service and installation instructions within e.g. general industry, the power industry or the automobile industry.
